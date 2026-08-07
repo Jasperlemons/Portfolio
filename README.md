@@ -11,9 +11,8 @@ May 2026- Current
 
 Kentucky Division of Water
 Environmental Scientist I
-- Digitized and mapped mitigation sites throughout Kentucky using
-ArcGIS Pro to support water quality certification and environmental
-compliance efforts.
+- Digitized and mapped mitigation sites, Mussel Surveys and Delineated Wetlands throughout Kentucky using
+ArcGIS Pro to support water quality certification and environmental compliance efforts.
 - Coordinated with state agencies, universities, and private
 organizations to obtain environmental records.
 - Digitized historic and newly acquired mussel survey data to support
