@@ -1,5 +1,7 @@
 # GIS Analyst | Environmental Scientist
 
+Go to [Projects page](Projects.md)
+
 ### Education
 University of Kentucky  
 
