@@ -7,7 +7,8 @@ Minor in Wildlife Management
 
 ### Work Experience
 May 2026-Current 
-Environmental Scientist I   Kentucky Division of Water
+Kentucky Division of Water
+Environmental Scientist I
 - Digitized and mapped mitigation sites throughout Kentucky using
 ArcGIS Pro to support water quality certification and environmental
 compliance efforts.
@@ -17,7 +18,8 @@ organizations to obtain environmental records.
 environmental review and aquatic resource management initiatives.
 
 May 2025-Feb 2026   
-Environmental Scientist I   Kentucky Division of Water
+Kentucky Division of Water
+Environmental Scientist I   
 - Created statewide HUC14 sub-watershed delineations across
 Kentucky, supporting high-resolution hydrologic modeling.
 - Developed a Topo-Bathymetric workflow integrating
