@@ -6,7 +6,8 @@ B.S. in Natural Resources and Environmental Science
 Minor in Wildlife Management
 
 ### Work Experience
-May 2026-Current. 
+May 2026-Current
+
 Kentucky Division of Water
 Environmental Scientist I
 - Digitized and mapped mitigation sites throughout Kentucky using
