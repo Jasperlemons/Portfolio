@@ -1,11 +1,12 @@
 # GIS Analyst | Environmental Scientist
 
 ### Education
-University of Kentucky
-B.S. in Natural Resources and Environmental Science
-Minor in Wildlife Management
+University of Kentucky  
 
-### Work Experience
+- B.S. in Natural Resources and Environmental Science  
+- Minor in Wildlife Management
+
+### Experience
 May 2026- Current
 
 Kentucky Division of Water
@@ -28,3 +29,7 @@ Kentucky, supporting high-resolution hydrologic modeling.
 drone and bathymetric data for model production.
 - Utilized ArcGIS Pro and Blender to generate detailed terrain
 models for project planning.
+
+### Certificates
+- FAA Part 107 Remote Certificate
+- GIS Proficiency Graduate Certificate
