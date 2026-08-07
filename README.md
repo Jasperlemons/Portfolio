@@ -6,7 +6,7 @@ B.S. in Natural Resources and Environmental Science
 Minor in Wildlife Management
 
 ### Work Experience
-May 2026-Current
+May 2026- Current
 
 Kentucky Division of Water
 Environmental Scientist I
@@ -18,7 +18,8 @@ organizations to obtain environmental records.
 - Digitized historic and newly acquired mussel survey data to support
 environmental review and aquatic resource management initiatives.
 
-May 2025-Feb 2026   
+May 2025- Feb 2026   
+
 Kentucky Division of Water
 Environmental Scientist I   
 - Created statewide HUC14 sub-watershed delineations across
