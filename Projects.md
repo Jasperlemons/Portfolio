@@ -1,4 +1,1 @@
-title: Projects Page
-layout: template
-filname: Projects.md
-#theme:
+Go to [About page](README.md)
